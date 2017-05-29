@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fillViewport="true"
+    android:scrollbarStyle="outsideOverlay"
+    android:scrollbars="vertical"
+    tools:ignore="InefficientWeight,ContentDescription" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:text="Medication Reminders"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/blue"
+                android:textStyle="bold" />
+
+            <View
+                android:id="@+id/line"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/blue" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F8F8F8"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Medication Start Date"
+                android:textColor="@color/blue"
+                android:layout_weight="1" />
+
+            <DatePicker
+                android:id="@+id/dpMedStartDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:visibility="gone"
+                android:calendarViewShown="false">
+            </DatePicker>
+
+
+            <EditText
+                android:id="@+id/dpMedStartDateText"
+                android:layout_width="wrap_content"
+                android:focusable="false"
+                android:width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left">
+            </EditText>
+
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F8F8F8"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:layout_gravity="left">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center_vertical"
+                android:layout_weight="1"
+                android:textColor="@color/blue"
+                android:text="Number of Doses per Day" />
+
+            <NumberPicker
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/numDoses"
+                android:layout_gravity="left"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F8F8F8"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:layout_gravity="center_horizontal">
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Reminder Times"
+                android:textColor="@color/blue"
+                android:layout_weight="1" />
+
+            <TimePicker
+                android:id="@+id/tpReminder1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:layout_gravity="left"
+                tools:visibility="visible">
+            </TimePicker>
+
+            <TimePicker
+                android:id="@+id/tpReminder2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:layout_gravity="left"
+                tools:visibility="visible">
+            </TimePicker>
+
+            <TimePicker
+                android:id="@+id/tpReminder3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:layout_gravity="left"
+                tools:visibility="visible">
+            </TimePicker>
+
+            <TimePicker
+                android:id="@+id/tpReminder4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:layout_gravity="left"
+                tools:visibility="visible">
+            </TimePicker>
+
+            <TimePicker
+                android:id="@+id/tpReminder5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:layout_gravity="left"
+                tools:visibility="visible">
+            </TimePicker>
+
+            <TimePicker
+                android:id="@+id/tpReminder6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:layout_gravity="left"
+                tools:visibility="visible">
+            </TimePicker>
+
+            <TimePicker
+                android:id="@+id/tpReminder7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:layout_gravity="left"
+                tools:visibility="visible">
+            </TimePicker>
+
+            <TimePicker
+                android:id="@+id/tpReminder8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:layout_gravity="left"
+                tools:visibility="visible">
+            </TimePicker>
+
+
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnOk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:background="@drawable/rounded_button"
+            android:text="Ok"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white"
+            android:layout_gravity="center_horizontal"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

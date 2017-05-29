@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="action_bar_bg_color">#20419A</color>
+    <color name="drawer_menu_bg">#20419A</color>
+    <color name="drawer_item_sel">#FFFFFF</color>
+    <color name="drawer_item_text_color_sel">#20419A</color>
+    <color name="drawer_item_text_color_unsel">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#C2272F</color>
+    <color name="green">#009247</color>
+    <color name="bg_blue">#20419A</color>
+    <color name="Medication1_color">#554799</color>
+    <color name="Medication2_color">#FCAF17</color>
+    <color name="Medication3_color">#6EA7D6</color>
+    <color name="Medication4_color">#22B573</color>
+    <color name="Medication5_color">#F15A24</color>
+    <color name="Medication6_color">#FF7BAC</color>
+
+    <color name="blue">#000099</color>
+    <color name="symptom_color_selected">#003366</color>
+    <color name="reaction_color_selected">#003366</color>
+    <color name="static_text_color">#003366</color>
+    <color name="journal_entry_listitem_text_color">#003366</color>
+    <color name="note_text_disabled">#333333</color>
+    <color name="navy">#6699FF</color>
+    <color name="sky">#0099CC</color>
+    <color name="gray">#808080</color>
+    <color name="purple">#800080</color>
+    <color name="lightgray">#e7e7e7</color>
+    <color name="lightgray02">#bfbfbf</color>
+    <color name="dark">#000015</color>
+    <color name="lightgreen">#336666</color>
+    <color name="orange">#e33d1b</color>
+    <color name="darkorange">#cc2303</color>
+	<color name="yellow">#FCAF17</color>
+	<color name="blue_border">#1CA3DF</color>
+	<color name="red_border">#e50000</color>
+	<color name="orange_switch">#EFAB00</color>
+    <color name="event_color_01">#59dbe0</color>
+    <color name="event_color_02">#f57f68</color>
+    <color name="event_color_03">#87d288</color>
+    <color name="event_color_04">#f8b552</color>
+
+    <color name="safe_mode_text">#80ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_dark">#ff000000</color>
+    <color name="background_light">#ffffffff</color>
+    <color name="bright_foreground_dark_disabled">#80ffffff</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+    <color name="dim_foreground_dark">#bebebe</color>
+    <color name="dim_foreground_dark_disabled">#80bebebe</color>
+    <color name="dim_foreground_dark_inverse">#323232</color>
+    <color name="dim_foreground_dark_inverse_disabled">#80323232</color>
+    <color name="hint_foreground_dark">#808080</color>
+    <color name="grayy">#C0C0C0</color>
+    <color name="dim_foreground_light">#323232</color>
+    <color name="dim_foreground_light_disabled">#80323232</color>
+    <color name="dim_foreground_light_inverse">#bebebe</color>
+    <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
+    <color name="hint_foreground_light">#808080</color>
+    <color name="highlighted_text_dark">#9983CC39</color>
+    <color name="highlighted_text_light">#9983CC39</color>
+    <color name="link_text_dark">#5c5cff</color>
+    <color name="link_text_light">#0000ee</color>
+    <color name="suggestion_highlight_text">#177bbd</color>
+    <color name="right_menu_bg_color">#515D77</color>
+
+
+
+    <color name="medication1">#4068E0</color>
+    <color name="medication2">#FCAF17</color>
+    <color name="medication3">#33B5E5</color>
+    <color name="medication4">#22B573</color>
+    <color name="medication5">#F15A24</color>
+    <color name="medication6">#FF7BAC</color>
+
+
+
+
+</resources>

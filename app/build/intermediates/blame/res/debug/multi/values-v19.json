@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\values-v19\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 76,
+                        "endOffset": 302
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/white"
+    android:layout_marginLeft="0dp"
+    android:orientation="vertical"
+    android:padding="0dip">
+<LinearLayout
+        android:id="@+id/reasons_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:layout_marginLeft="30dp"
+        android:orientation="horizontal"
+        android:padding="5dip">
+    <TextView
+        android:id="@+id/time_text"
+        android:layout_width="30dp"
+        android:layout_weight=".25"
+        android:layout_height="wrap_content"
+        android:text="11:34 PM"
+        android:layout_marginLeft="2dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"/>
+        <LinearLayout
+            android:layout_width="3dp"
+            android:layout_margin="5dp"
+            android:layout_height="match_parent"
+            android:background="@color/bg_blue"
+            android:orientation="vertical"></LinearLayout>
+        <TextView
+            android:id="@+id/title_text"
+            android:layout_width="0dp"
+            android:layout_weight=".7"
+            android:layout_height="wrap_content"
+            android:text="not handled yet : token "
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/red"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"/>
+    </LinearLayout>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="02dp"
+        android:layout_marginLeft="20dp"
+
+        android:background="@color/lightgray"/>
+</LinearLayout>
+

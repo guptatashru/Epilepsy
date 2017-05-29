@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sdvf_scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fillViewport="true"
+    android:scrollbarStyle="outsideOverlay"
+    android:scrollbars="vertical"
+    tools:ignore="InefficientWeight,ContentDescription" >
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:ignore="InefficientWeight,ContentDescription" >
+
+    <TextView
+        android:id="@+id/sdvf_day_of_week"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textSize="12sp"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/sdvf_day_month"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="30sp"
+        android:visibility="visible" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/seizure_details_lbl"
+        android:textColor="@color/bg_blue"
+         android:textStyle="bold"
+        android:textSize="15sp" />
+    
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@color/bg_blue"
+        android:layout_marginBottom="10dp"/>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp" >  
+    
+    <TextView
+        android:id="@+id/sdvf_type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:layout_alignParentLeft="true" />
+    
+        <TextView
+        android:id="@+id/sdvf_time"
+        android:visibility="visible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_alignParentRight="true" />
+
+</RelativeLayout>
+   
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp" >
+
+        <TextView
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="@string/duration"
+            android:textColor="#828284" />
+
+        <TextView
+            android:layout_weight="3"
+            android:id="@+id/sdvf_duration"
+            android:layout_width="0dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="@string/seizure_duration"
+             android:layout_gravity="center_vertical" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp" >
+
+        <TextView
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:textStyle="bold"
+            android:textColor="#828284"
+            android:layout_height="wrap_content"
+            android:text="@string/trigger" />
+
+        <TextView
+            android:layout_weight="3"
+            android:id="@+id/sdvf_trigger"
+            android:layout_width="0dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="@string/seizure_trigger"
+             android:layout_gravity="center_vertical" />
+    </LinearLayout>
+ 
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp" >
+
+        <TextView
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#828284"
+            android:text="@string/emergency_medication_given" />
+
+        <TextView
+            android:layout_weight="3"
+            android:id="@+id/sdvf_emergency_medication_given"
+            android:layout_width="0dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+             android:layout_gravity="center_vertical" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp" >
+
+        <TextView
+             android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#828284"
+            android:text="@string/ambulance_called" />
+
+        <TextView
+             android:layout_weight="3"
+            android:id="@+id/sdvf_ambulance_called"
+            android:layout_width="0dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+             android:layout_gravity="center_vertical" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp" >
+
+        <TextView
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:textStyle="bold"
+            android:textColor="#828284"
+            android:layout_height="wrap_content"
+            android:text="@string/select_pre_features" />
+
+        <TextView
+             android:layout_weight="3"
+            android:id="@+id/sdvf_pre_feature"
+            android:layout_width="0dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="@string/select_pre_features"
+             android:layout_gravity="center_vertical" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp" >
+
+        <TextView
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:textStyle="bold"
+            android:textColor="#828284"
+            android:layout_height="wrap_content"
+            android:text="@string/select_features" />
+
+        <TextView
+            android:layout_weight="3"
+            android:id="@+id/sdvf_feature"
+            android:layout_width="0dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="@string/select_features"
+            android:layout_gravity="center_vertical" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp" >
+
+        <TextView
+             android:layout_weight="2"
+            android:layout_width="0dp"
+            android:textStyle="bold"
+            android:textColor="#828284"
+            android:layout_height="wrap_content"
+            android:text="@string/select_post_features" />
+
+        <TextView
+            android:layout_weight="3"
+            android:id="@+id/sdvf_post_feature"
+           	android:layout_width="0dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="@string/select_post_features" 
+            android:layout_gravity="center_vertical"/>
+    </LinearLayout>
+
+ <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp" >
+
+    <TextView
+        android:id="@+id/sdvf_desc_lbl"
+        android:layout_weight="2"
+        android:textStyle="bold"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/description" />
+
+    <TextView
+        android:layout_weight="3"
+        android:id="@+id/sdvf_desc"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+  </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:fillViewport="true"
+            android:background="@color/black"
+            android:layout_height="match_parent">
+
+         <ImageView
+        android:id="@+id/sdvf_thumbImage"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        android:scaleType="fitXY" />
+        </LinearLayout>
+ </LinearLayout>
+</ScrollView>

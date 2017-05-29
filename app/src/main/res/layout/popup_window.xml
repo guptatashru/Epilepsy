@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+
+    <TableRow
+        android:id="@+id/tr_create_seizure_type"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:layout_marginBottom="0.5dp"
+        android:layout_marginTop="0.5dp"
+        android:background="@color/right_menu_bg_color">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="?android:attr/expandableListPreferredItemPaddingLeft"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text="@string/create_seizure_type"
+            android:textColor="#FFFFFF" />
+
+    </TableRow>
+    <ExpandableListView
+        android:id="@+id/lvExp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:groupIndicator="@drawable/extendable_list_arroe_selector" />
+    <TableRow
+        android:id="@+id/tr_create_trigger"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:layout_marginBottom="0.5dp"
+        android:layout_marginTop="0.5dp"
+        android:background="@color/right_menu_bg_color">
+        <TextView
+
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="?android:attr/expandableListPreferredItemPaddingLeft"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text="@string/create_trigger"
+            android:textColor="#FFFFFF" />
+
+    </TableRow>
+    <TableRow
+        android:id="@+id/tr_create_sms"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:layout_marginBottom="0.5dp"
+        android:background="@color/right_menu_bg_color">
+        <TextView
+
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="?android:attr/expandableListPreferredItemPaddingLeft"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text="@string/create_sms"
+            android:textColor="#FFFFFF" />
+
+    </TableRow>
+    <!--<TableRow
+        android:id="@+id/tr_menu_email_csv"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:layout_marginBottom="0.5dp"
+        android:background="@color/right_menu_bg_color">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="?android:attr/expandableListPreferredItemPaddingLeft"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text="@string/menu_email_csv"
+            android:textColor="#FFFFFF" />
+
+    </TableRow>-->
+
+    <TableRow
+        android:id="@+id/tr_record_seizure"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:visibility="gone"
+        android:layout_marginBottom="0.5dp"
+        android:background="@color/right_menu_bg_color">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="?android:attr/expandableListPreferredItemPaddingLeft"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text="@string/record_seizure"
+            android:textColor="#FFFFFF" />
+
+    </TableRow>
+    <!--<TableRow-->
+        <!--android:id="@+id/tr_more"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="vertical"-->
+        <!--android:padding="8dp"-->
+        <!--android:layout_marginTop="0.5dp"-->
+        <!--android:background="@color/right_menu_bg_color">-->
+        <!--<TextView-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:paddingLeft="?android:attr/expandableListPreferredItemPaddingLeft"-->
+            <!--android:textSize="17dp"-->
+            <!--android:textStyle="bold"-->
+            <!--android:text="@string/more"-->
+            <!--android:textColor="#FFFFFF" />-->
+
+    <!--</TableRow>-->
+</LinearLayout>

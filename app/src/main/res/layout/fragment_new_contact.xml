@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    tools:ignore="InefficientWeight,ContentDescription" >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+<LinearLayout android:id="@+id/parent_linearlayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginEnd="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginStart="10dp"
+    android:background="@color/transparent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:paddingTop="20dp"
+        android:text="New Contact  "
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/blue"
+        android:textStyle="bold" />
+
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/blue" />
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text=" Name"
+            android:textColor="@color/blue" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="Relationship"
+
+            android:textColor="@color/blue" />
+         />
+
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:layout_marginBottom="15dp"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/et_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:textColorHint="@color/lightgray"
+
+            android:hint="Name"/>
+        <EditText
+            android:id="@+id/et_relationship"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:textColorHint="@color/lightgray"
+            android:hint="Relationship"/>
+        <!--<Spinner-->
+            <!--android:id="@+id/sp_unit"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="0.25"-->
+            <!--/>-->
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="E-Mail Address "
+            android:textColor="@color/blue" />
+
+
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:layout_marginBottom="30dp"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/et_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:textColorHint="@color/lightgray"
+            android:hint="E-Mail Address "/>
+
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="Contact Number  "
+            android:textColor="@color/blue" />
+
+
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:layout_marginBottom="30dp"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/et_contact_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="phone"
+            android:textColorHint="@color/lightgray"
+            android:hint="Contact Number "/>
+
+    </TableRow>
+    <!--<TableRow-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="start|center_vertical"-->
+        <!--android:layout_marginBottom="5dp"-->
+        <!--android:visibility="gone"-->
+        <!--android:orientation="horizontal">-->
+
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Medication Protocol"-->
+            <!--android:layout_marginRight="20dp"-->
+            <!--android:textColor="@color/blue" />-->
+
+        <!--<ImageButton-->
+             <!--android:id="@+id/ibtn_info"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/information"-->
+            <!--android:layout_gravity="left"-->
+            <!--android:background="@android:color/transparent"-->
+             <!--/>-->
+
+    <!--</TableRow>-->
+    <!--<TableRow-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="start"-->
+        <!--android:visibility="gone"-->
+        <!--android:layout_marginBottom="25dp"-->
+        <!--android:orientation="horizontal">-->
+        <!--<EditText android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="0.5"-->
+            <!--android:hint="Medication Name"/>-->
+
+    <!--</TableRow>-->
+
+    <!--<TableRow-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="start"-->
+        <!--android:layout_marginBottom="5dp"-->
+        <!--android:orientation="horizontal">-->
+
+        <!--<TextView-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="0.5"-->
+            <!--android:text="Medication Stock"-->
+            <!--android:textColor="@color/blue" />-->
+
+        <!--<TextView-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="0.5"-->
+            <!--android:text="Medication Images"-->
+
+            <!--android:textColor="@color/blue" />-->
+
+    <!--</TableRow>-->
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="start"-->
+        <!--android:layout_marginBottom="25dp"-->
+        <!--android:orientation="vertical">-->
+
+        <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Medication Images"-->
+            <!--android:layout_marginBottom="5dp"-->
+        <!--android:textColor="@color/blue" />-->
+        <!--<ImageView-->
+            <!--android:id="@+id/imgV_camera"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/cameraa"-->
+            <!--android:gravity="left"-->
+            <!--android:textColor="@color/blue" />-->
+
+        <!--&lt;!&ndash;<Spinner android:layout_width="0dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_weight="0.5"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:hint="Medication Name"&ndash;&gt;-->
+            <!--&lt;!&ndash;/>&ndash;&gt;-->
+
+
+
+     <!--</LinearLayout>-->
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_marginLeft="10dp"-->
+        <!--android:layout_marginTop="0dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="horizontal" >-->
+
+        <!--<ImageSwitcher-->
+            <!--android:id="@+id/mSwitcher"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_weight="0.8"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="10dp"></ImageSwitcher>-->
+
+        <!--<Button-->
+            <!--android:id="@+id/Switch"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_weight="0.2"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center_vertical"-->
+            <!--android:background="@drawable/right_arrow" />-->
+    <!--</LinearLayout>-->
+
+</LinearLayout>
+    </ScrollView>
+    <LinearLayout
+        android:id="@+id/ars_buttonbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:baselineAligned="false"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/linear_btn_delete"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@color/red"
+            android:clickable="true"
+            android:gravity="center"
+            android:padding="15dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@null"
+                android:clickable="false"
+                android:focusable="false"
+                android:gravity="center"
+                android:scaleType="center"
+                android:src="@drawable/delete" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_btn_save"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@color/green"
+            android:clickable="true"
+            android:gravity="center"
+            android:padding="15dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@null"
+                android:clickable="false"
+                android:focusable="false"
+                android:gravity="center"
+                android:scaleType="center"
+                android:src="@drawable/save" />
+        </LinearLayout>
+    </LinearLayout>
+    </RelativeLayout>

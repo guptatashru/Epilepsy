@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="10dp"
+    android:paddingLeft="5dp"
+    android:paddingTop="10dp">
+
+  
+
+<TextView
+    android:id="@+id/multi_spinner_name"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="7"
+    android:text="Seizure Type"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+		<ImageView
+		    android:id="@+id/multi_info_icon"
+		    android:layout_width="0dp"
+		    android:layout_height="30dp"
+		    android:layout_gravity="center"
+            android:layout_weight="2"
+		    android:clickable="true"
+		    android:src="@drawable/ic_info" />
+		  
+		  <CheckBox
+        android:id="@+id/multi_checkbox"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content" 
+        android:layout_weight="2"/>
+
+</LinearLayout>

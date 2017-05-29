@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.7\69d90fd7fb70e54746e26c10454c220e40a775ce\otto-1.3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69d90fd7fb70e54746e26c10454c220e40a775ce">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\otto-1.3.7_b588722549427f701c289df9bb1593122fd200d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\6af3facc5c02d3663ecb4339988795148f4188c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4371b6a7d699e74daba7c2e0c56993510def8739\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\c39ff34733c341d31d238a2fb9a5d41ca44be107\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c62b050a49bc2f4a92234559dee0c381d6cd26b6">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9f6cd4aed8d8ad7c409f53de56b68d3cb3532dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\47032420e82605946a8adff68355490933e3eadf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_983b218f56f1564c627fa74e650010cd02a4d62c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\8adb488c2b99f0b945041ae8a5b50aeb3f7bdf48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_4b755587a9378827b58acaa2e41c26d3e2c9f90a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\426dd378783f0cbf9a56eb2d508f72cecaaf91a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_3d79957b68e3936e6614fc75f2806204d9dc960f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\fbd6ec86fbd55434d737d60d3e65173fe5765665\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ba0aaf69cad390f7c58854f2551dba847e12ac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\3d47ce423ef8cf234ac7af0078866d022ad78cdc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af7abc440ffa719e1df47c2c87f7b12bae9ac33a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\d79218ddfff40c404ef79fa5fcb912272bc2653d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2423684667e1b47f7b669eaf2d11a2d0a6f1a347\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\83fed7d70d76b2968108629a5f8d0efffbb3ef94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2bd2b7cf8a0746fc0e7ca5155a9ae291f8d38ce2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\d956a621d095528d137d92c789394ad19268295f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_390e709558c75ec7c1a42d347bd24d4385efc89b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\adb\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_5bf80d977ce0a5e9ce88f1ad51c4d4ea388511e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\42babd590e12cac25635f36dd06d389a2148b607\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_54dfb4025859e830c82c8351b3764ee6f26e8b57.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\a9a2311e4ef9a6b0500245fa302d109cb2083ba3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_413abe9220a8c01bcebe6695409323e3b0b7e8e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\0b71e4204668960c64bb9ae1bb6501bee171f372\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_c629c472c57aa5c2ed1601e71efdd98867e56246.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4c9a88103206429ac05bcb8f57917f01f7afd47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\8b8f615a46fa755f479a5ae14407899e75fdc56e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3376f705dc1863a8782faf275e56f188b8129eb">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2befabed24f0963f80013f0bc95bad9153ea06e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\4f011a36430487c4ff8e6e6c0f5bc4c99fc4abe9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_67489f11bdc9f48e31896a51299b7061c3af0415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\c558ba7e333360206a4b3ab01bdd19c1467285b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_4beec28d42a572f795d6bd2d19b879a0b7bd4467.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\2c35597f9b8edb289a4eb297fcd73209dc133cbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8dc9e53929497af851546bbbe735a07fd72d2c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\0060e15819b74e7a860fce070620c2fcabd3679c\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_f903e51f149b58f91b3ea400e5c5ee03eea94ddc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\031134c4827e6cde8cc9a9538e08bf4ded8dc981\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32d51ff062812f3ebe3af1e896f5bc36b5279215\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\eab42ddbabc9512c9a2fd8eafa2fc028f9e56120\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_371a2282d4b9f0d31b4138e68f748ab28339866e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\6e79e798e6e856fe4a61f021b42e739dcec1bba1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3e366ad917b1fd4de5f1a0626d4e9af903dba52">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce9e64e7aee46215a8024ecad8e8128c6d6ca8bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\27590aed4b5a58cf5f673c5cf598b98522967290\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_c9ce4c1df7be4d8b74be6f6f6e89a31831686ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\57f1f6297fcbf35590f561d38d6587265860134d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_abc0d994841d959cb5e4b0b3c398fe910214e316.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\f3f6062518c5ac619fa429daf108a9e8671f1bff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f16d77df6e1834f9f61be718cda955898582df1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\2147316ef889be8ddd50e2e180fac11fd9b57222\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43ea96302299eaf72c4171dde02f68ab0585c766\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\84adb1cbd96f019961439edbadf26d0b2076597a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7b72b0dae5a2953aaf1bb94bda0669e9dc902a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\0060e15819b74e7a860fce070620c2fcabd3679c\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_f903e51f149b58f91b3ea400e5c5ee03eea94ddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\5333c2f6aaece3fc5ed0d5884453f1466e688ff9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_e1ccb7c5d2911e791fab83c617daf72e07d19b8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\0267abcae705043aec19b69e53a517b1cfe6e0c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_ff6527cea38780de09b6eb995dc928d2220d1d79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\621c2334da17e428432f32584c5608e5450c6b7d\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_b3207d2a8f38c9683ee0448e355e2b577feeb3b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\a363b3484b31760f7f50192b99f69bfa82e9d99a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_a58f770a851be63dc2d75b6afa63d2bec2b8d0bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\125b6a9c8e627fb8a4abc18c84ce82bd788fdaa9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a08f98fe716189b7be9833137a82763286c77da9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\4108be1ef49e3de149528f3af432f0050cf45765\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83e10786ce033e33a8f87772187e85ac0198563f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\16e3cb24a8ae60b38272c6e10b7a0f887269e52f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_46bf97e91548424aa926980a2827821ac5c92fe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\0b4b5d00a604ba3b51fa84733fc8aa92a1efb1c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_932ef6a36b5751997248d184bac6ff7f10d80a53.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\adb\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_457858a5094082625f56d0eea4c0af40eb747936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\cbaa94a0062f2715e1243829fb62f97aed031d53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23e3acde10f4cf52778f8dc88107fb96459f2392">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80431c6d2a82b3806bbfeea45109e05ca0849151\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\f871a84ebb0fe09fb7885a2f77a20c75876ce32d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="703c95818950344722c5d545e0763f4ae92625ce">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7859f27c362ffc7f30a88f55d5c333a1710a6d8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\2a430811551819895c8436332567113e8e66e628\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_1924b515e68af50833fc34c0d2b28a7993428341.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\93979e27f54b295a0a8688d8b012398187b83d68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7f1f16f63cb2469a27accec00a03bc635876fdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\52a7e1f0704c2f2f17aa15f43dadda902b8444f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_391ad1131aa014a2b779b24935ea7bf413086765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\cc8dfc09780c1a7612e5a5fe565b8adc1a414b43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_7b2e9dfeab0436307b766adcc7f34662d4451c92.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\7c1c26dad6590588b673ab6b60e64997d846557b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b8fa4f0760229fc0ce4d94c6bb34e1ec6e2e0e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\d188acd0712c6770f95dff8d40b531057e534251\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_3128148974007fb2736881066f4c4bcf83b2b32b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\db9428cdeee1287b98ad89e822262da15b0110a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_eba2687512e954e0c8a8c3fdaaf3ee928ebb3795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\0bda90b821ac6e688042f5433726a63ebe74a8c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_1a209962d04d1d01a476009e139dd9c48938cb80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\adfc451a36768bc95733cc9ac90e63681dc49dd1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_12d574e0cbda86c3a2816ceede71074a583b7555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\39c68c72bd8d946107122a73b04967a4411c3f07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_a8623fc299b83a21ab909b7a91df1129cb77d43c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\914d7c51707ebcddc6a416c76435d436b1a0c083\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_df14742d931c2584018a90ec69e7c7c4b96e7493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\f9777879d5ff9b46b3f74fc262fc5ffa0676d12c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_7cc3f38f395284cb7c37fcfebe6f55456d3b7338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\908815900fd0ed09569bc85e4280bde352c46d1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_87d61560ddbedae25560e7276e049bed1bcaf163.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\b6b6e3ca4805b331db1fe011b0215c116300fa88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d2833245a9615973d6d9a49fa03a053c14b66e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\4d096f83970a375512058f2b6071a50fdea3e0fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da8050be66e2c0df4bc499d839b0d0c5acda4571\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\755722f0d2d0051c437a1dfb9b773f22b2cd2250\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a9352a42ef4c85529e632ea76b729bfe085eeed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\878fad82ab001c7bc7f1faffdb85e85770cac8f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12a68f12cd74e8758f58c4de1021d2bb1e555858\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35202e4433d2170091e48c709a6c6519d0d2e850\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\56843dd0c4fb5829711be846bb46b229b2b45d71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_941f14f38ff1c152db66cca111657880365a61cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\cc8dfc09780c1a7612e5a5fe565b8adc1a414b43\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_73f8a536d7e0a7b0ed2cc7a3608e4d829c2d260b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\8f4edea4e15dd23d479b2a6a74addc69fa270d1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_426f03a719897da3939506b724d2ff3dce5bdaa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\ad71ae5cfcef55ac75c45057fa855c8e2a840090\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_ebc5afe1e5a190c39f00ec0e30b7fecf0b71f4a4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\2309409444e547ac1976de42a53e705188e6e887\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87d0e6219d84b4ee47c39e54ffe55f27dac430fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_35202e4433d2170091e48c709a6c6519d0d2e850.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf834a762e31583de2b4b04eb5abaae5ca300365\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\7380d5beba22fe7e2f573082584c54baeb446ecb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_a7ba3d8d2f76009d5dbddf5d7fbec4dff00c738f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\8cdb41f0d3109849092a2d460d14c04ff623e1c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ac1a936d3b147d125ff98af3938def0155691d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\0d9803be75d9545d9475cbf89a9f4a3719e9d4f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_c5b1a585edccf79227a00766642476e3784afaa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\2b85839b82600b8b475d67dcc12bffe9c6edf835\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_a783bb1dc40e0f10afecf68dfb7aaab0a9d83e95.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\6d1403c2624ea1917a8a051067b927d7148ae9a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6a932760d0739f4b8f63b7a87596e3fc8f32ff1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\c542ca1df627eaf5e8758801e7afcf76ccd54cdf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_ef971078354bbf7c7c613af72ee8e3392454b914.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\fbd6ec86fbd55434d737d60d3e65173fe5765665\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_712e220291a3ce1b87f7ecf7b18b072d8acc4550\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\16421048375dafee91674eeff96badd030f568e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f19b60f17ca89bd2e01281c981b6572e7b3c01a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\f609c32ee921cacb076fe17d63c6721c759f6fc3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_473bdec1f30116dd1f38d093700735729d6a5b82\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\0ade689a4af5cc768c242150470b2c2704c61012\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_c3575e6d1765028e2b3ac755ed31e4f9d4c0fdf5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\cb3657e1708c718fc42f2de145ecbd6714fcacfe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bc48742e45522b566e064402325aa181e5451b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28502dd2f8af8da1437bb268ed28fdcd52d32f82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\43516c2fd89aa1383fed1e5d73ea4c669a656763\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a637ea73d78e58f13decdc721b01817d39941f10">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_458e3950e5bb57caa2b62ec89c1f9672c5aed020\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\01f16d5e432741c51cee4d61cdcce69e06767ab8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_33e76998e717a6a2ca7fc6265d0634f62415cb6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\e0966d4395d1f86db7e061de5c04911508ca8bb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_2619a18ce6042f89bd885c7d0543abaf4be38c27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\37c81f19113dbebee2511871a0e2d4fc0bdd5183\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_0fd0314a21737ceceed8ce8f8d85c5fb2644cc0d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\5359494f0b6a7201a9aa08579a0f93d2491cc073\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53f098d33b3f968ea4a36cb9f0d5f18b10062a74\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\2de6c830080c6dba96125aae3fe56df94926a7f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_73b4f66e8484240f413f9831ae7d6d0c07b33ede.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\e4332314990cac135e4160d0935e0307fef8ca95\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_facdaa013bb88d9bd8f87559af943d39560f9a5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\2de6c830080c6dba96125aae3fe56df94926a7f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73b4f66e8484240f413f9831ae7d6d0c07b33ede\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\22bdb80f275c8f5950e248f7d539342a54a1695a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bbbb75d1f15a82aad07e1eb6a6f2a1c90663493\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\af29261838b8066cdc031a99deb38f922dadf57e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70b42d9ca16230f8cf53036c93ccd6a75843931e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\b37d47e1c552e3e81ea21291d91c6df0aebd4fa0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_95c3b0446854985926e920643e4c8874a1481b2e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\5135f59fed3d6af6650e5fa68b856472da7b025e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ffd06edbc90ab854253ab931bd408b1eeaf8d95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\2a0f89805b41a39b8a532379b60276cf1dac0c84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44db68ed8d7d566e8b339bec985049282938f5cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\621c2334da17e428432f32584c5608e5450c6b7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_deae2f339d14ffc578a2fabb0186423e945b67a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\25e5c4c5f6fb63fb412dd6df16ca5bd2f9bd5836\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_a8ca896efbb77ce055335b95b15798e97eb7f084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\e25acd1ca200979c1a757c4bf2f7af2e4db83330\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_6a920602cf87deaee982ee66fc8512ba79e19f94.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\dccb2e92a05599711b121ece940a480f836b6983\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0df5e92596474ce13628d795cbe435329659370b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.4\7abd1ecef320da6a7679b137083151401fe8bf43\MPAndroidChart-v2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v2.2.4_f718b32c75045684aeb6166b3b4a13270c4cc08c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\c8d888cf56e133dde36dfdac52730ea2a4a40a72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_8ee0240db3b2a3f378f6c60f204d585e512aac79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\922ae507135e5f8eb356282b81adb84d633d44d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_b5afd5faae365b82003974fce2975ff9a7ec26fb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\bfd801e8742789e5b091ec7791e90d9d417d4c2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94382da5c8e4cf64836f8a5070aa1adace5867b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\d00a3118f27bccb8a7db54642c3456e4b5fe6360\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b1b4588297cb66523e4e864fc5e5aafad86a994\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\98b69a2c69eb082cf2e8fb178700d39193512477\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_2ca37675a1d2948e09adee030206165bedaf5496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\115da9757ff7c77e8d28c90a45518c3a58b8bc82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_74611a747a7f58d709ae0202e7d6cccc8445ecd4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\e46b980f8733343936ea525fb0b3a811477cd699\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de2d3e97a48794f6dbaae4a3c3bdfbd404ad78c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\bddca78cd0da3240741d583a8aae234af0ce4af9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_837140eb2c8754bfa5be455a3a4ab98b1b7f3ea3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc561ed94fc498fbf938b6aa8ef2f8326dd19296\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\1a1425bbece7cfd5794216b9a69392cf0bbe6ff5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_b24510821b85c2017c9b255e1b7c5321d382e85d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\dcf201f4a49a7647856bb66f42edc0c7061848fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ce110ae9456ded43a41bf1b2ccaba7cd7a0f69f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\42eaefee235e34f51791e0d7a810c1c03a87140d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_3a3466c5efae144d0dd40c1db8475d1303bdd1cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\45c6e091e20b8a0ef8ceac46692ef00d850cafdb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_7b0fb4f208b504347c392d10bae6e81286679ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\2020b121f089cc846584e855d650c7088b4ba64e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_29e16c65252cc4d74a1c64abfbdb193b127e3936.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\0dc545b47e4ce4a51e978d0f8f37afee46dbcddc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1165a10e8a6474be900e50654634be86a7a303f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\ed4a920f89d261667e25aa9fe88ab9e778d1938f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_bca7844ea0c0e4f74b76d090541b8631cf52ee3d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\1145e1e27c8479b8978beab112c738d84d8a250a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57521b569b3b96396e01c8bcd61f073a0ac84cbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\a28f0aaa0b618aa96f9138ae1193f17267270cb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b3bbd05bd40f4345b3aeb5fe5fdb2ea924e672d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.0.0\3a10b25b6820e19102e118711afe6a66c0bae123\butterknife-6.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-6.0.0_619b751eac28f36911e76210ee48135327ee2e47\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\e420c73d8fe8cb4322a546d93826b455185ca370\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_bd20cbe00d22226f2151062e6c357507352a388b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\15834d7b26132895b3964d5ef3b93c9164471bec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_98b7300b5a839d27102ffeb490e0bd4b7c2a4e51.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\3895d00247c109469cd504a49347356760b6da33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2fd41a90dfbdcd14061d27938ad68b3f8bf60fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\cf328a0774bf6935da8ff1e7f664077790d98c3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69575f94b6791b94693aa031ccd1ba6e8c5b5547\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\b94a9e3d34af851879b0d200e6d53cdd5cd12dc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6defaeb89ca7f29ed98ab4ea61ce2af059680e2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\7c1c26dad6590588b673ab6b60e64997d846557b\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_cb1edffe8845c62bd187ab6d929cad4ecbed6133\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\67002b4ca0ae112609e665a59e92cae5d5649c1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6c52fe5e952f76dd4bd42d39466532ea86efc45\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\85463f25bf79892aa1886262b56589bd5a080743\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_5f22c9e977c8a52c3a532ce6410eee274d1351eb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\167cf1ed11373289410c9dbd496cc28bf3469178\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e334e2a0ce99d01215b5125466d3ee822e5c919\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\5e70360c9acd52f40af26f4a883425945423dd6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_906d4a456082ad47b97f5793f64d1858f1968f7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\0060e15819b74e7a860fce070620c2fcabd3679c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_7c7a4c608e2fd92af12b74eb873acbaf608da688.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88b04f9b9b7001f19c3b4ff61bb8213ec0a729b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guptshru\.android\build-cache\d5de7d64917eac838fda3f360d729faa822c69e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\pre-dexed\debug\classes_1a15d7939358840f791b1e4942313f417de68723.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\0060e15819b74e7a860fce070620c2fcabd3679c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c7a4c608e2fd92af12b74eb873acbaf608da688\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\859d4fcecfd337b956222689d388c513a4d619e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b0f0c2b34bd131e21149c754abb794b2f5ace14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guptshru\.android\build-cache\555afa5db821420fbe4b1d7c9c17336a907978b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_476e5547a1246c4062775c26919c0b231c171bca\classes.dex" />
+    </item>
+
+</items>

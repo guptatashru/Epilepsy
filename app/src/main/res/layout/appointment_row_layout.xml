@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5dip">
+
+
+    <ImageView
+        android:id="@+id/next"
+        android:layout_width="20dip"
+        android:layout_height="30dip"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="7dp"
+        android:scaleType="center"
+        android:src="@drawable/right_arrow"></ImageView>
+
+
+    <TextView
+        android:id="@+id/Gp_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="TextView"
+        android:textAppearance="?android:attr/textAppearanceLarge"></TextView>
+
+    <TextView
+        android:id="@+id/appointment_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Gp_name"
+        android:layout_marginLeft="2dip"
+        android:text="TextView"
+        android:textColor="@color/gray"></TextView>
+
+</RelativeLayout>

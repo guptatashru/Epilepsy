@@ -1,0 +1,803 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:2:1-237:12
+	package
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:6:5-29
+		INJECTED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:5:5-45
+uses-sdk
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\guptshru\.android\build-cache\75d4611d40730ef7fd10bace85a024d5761930f7\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\guptshru\.android\build-cache\16daeb8183953b2d01afa379aaf1c9902fe62f66\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\guptshru\.android\build-cache\878fad82ab001c7bc7f1faffdb85e85770cac8f7\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\guptshru\.android\build-cache\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\guptshru\.android\build-cache\4108be1ef49e3de149528f3af432f0050cf45765\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\guptshru\.android\build-cache\fbd6ec86fbd55434d737d60d3e65173fe5765665\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-config:9.4.0] C:\Users\guptshru\.android\build-cache\555afa5db821420fbe4b1d7c9c17336a907978b3\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] C:\Users\guptshru\.android\build-cache\b94a9e3d34af851879b0d200e6d53cdd5cd12dc8\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\guptshru\.android\build-cache\cf328a0774bf6935da8ff1e7f664077790d98c3f\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\guptshru\.android\build-cache\a28f0aaa0b618aa96f9138ae1193f17267270cb6\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\guptshru\.android\build-cache\6d1403c2624ea1917a8a051067b927d7148ae9a5\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] C:\Users\guptshru\.android\build-cache\a9a2311e4ef9a6b0500245fa302d109cb2083ba3\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] C:\Users\guptshru\.android\build-cache\93979e27f54b295a0a8688d8b012398187b83d68\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] C:\Users\guptshru\.android\build-cache\3d47ce423ef8cf234ac7af0078866d022ad78cdc\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\guptshru\.android\build-cache\d956a621d095528d137d92c789394ad19268295f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-storage:9.4.0] C:\Users\guptshru\.android\build-cache\2147316ef889be8ddd50e2e180fac11fd9b57222\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] C:\Users\guptshru\.android\build-cache\5359494f0b6a7201a9aa08579a0f93d2491cc073\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] C:\Users\guptshru\.android\build-cache\83fed7d70d76b2968108629a5f8d0efffbb3ef94\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] C:\Users\guptshru\.android\build-cache\4d096f83970a375512058f2b6071a50fdea3e0fd\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] C:\Users\guptshru\.android\build-cache\1145e1e27c8479b8978beab112c738d84d8a250a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\guptshru\.android\build-cache\8cdb41f0d3109849092a2d460d14c04ff623e1c9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\guptshru\.android\build-cache\dcf201f4a49a7647856bb66f42edc0c7061848fa\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\guptshru\.android\build-cache\3895d00247c109469cd504a49347356760b6da33\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] C:\Users\guptshru\.android\build-cache\d00a3118f27bccb8a7db54642c3456e4b5fe6360\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\guptshru\.android\build-cache\167cf1ed11373289410c9dbd496cc28bf3469178\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] C:\Users\guptshru\.android\build-cache\125b6a9c8e627fb8a4abc18c84ce82bd788fdaa9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] C:\Users\guptshru\.android\build-cache\0dc545b47e4ce4a51e978d0f8f37afee46dbcddc\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\guptshru\.android\build-cache\e46b980f8733343936ea525fb0b3a811477cd699\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\guptshru\.android\build-cache\cb3657e1708c718fc42f2de145ecbd6714fcacfe\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\guptshru\.android\build-cache\eab42ddbabc9512c9a2fd8eafa2fc028f9e56120\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] C:\Users\guptshru\.android\build-cache\d79218ddfff40c404ef79fa5fcb912272bc2653d\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\guptshru\.android\build-cache\6af3facc5c02d3663ecb4339988795148f4188c2\output\AndroidManifest.xml:18:5-42
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.2] C:\Users\guptshru\.android\build-cache\43516c2fd89aa1383fed1e5d73ea4c669a656763\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] C:\Users\guptshru\.android\build-cache\2c35597f9b8edb289a4eb297fcd73209dc133cbe\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.11] C:\Users\guptshru\.android\build-cache\6e79e798e6e856fe4a61f021b42e739dcec1bba1\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.9] C:\Users\guptshru\.android\build-cache\8b8f615a46fa755f479a5ae14407899e75fdc56e\output\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.13] C:\Users\guptshru\.android\build-cache\cbaa94a0062f2715e1243829fb62f97aed031d53\output\AndroidManifest.xml:23:5-43
+MERGED from [gun0912.ted:tedpermission:1.0.2] C:\Users\guptshru\.android\build-cache\f871a84ebb0fe09fb7885a2f77a20c75876ce32d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:23.4.0] C:\Users\guptshru\.android\build-cache\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\guptshru\.android\build-cache\2de6c830080c6dba96125aae3fe56df94926a7f9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.github.sundeepk:compact-calendar-view:1.8.1] C:\Users\guptshru\.android\build-cache\c39ff34733c341d31d238a2fb9a5d41ca44be107\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\guptshru\.android\build-cache\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\guptshru\.android\build-cache\dccb2e92a05599711b121ece940a480f836b6983\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\guptshru\.android\build-cache\b6b6e3ca4805b331db1fe011b0215c116300fa88\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\5135f59fed3d6af6650e5fa68b856472da7b025e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\guptshru\.android\build-cache\2309409444e547ac1976de42a53e705188e6e887\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v13:23.4.0] C:\Users\guptshru\.android\build-cache\0060e15819b74e7a860fce070620c2fcabd3679c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\guptshru\.android\build-cache\16421048375dafee91674eeff96badd030f568e3\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\guptshru\.android\build-cache\84adb1cbd96f019961439edbadf26d0b2076597a\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] C:\Users\guptshru\.android\build-cache\67002b4ca0ae112609e665a59e92cae5d5649c1d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\guptshru\.android\build-cache\755722f0d2d0051c437a1dfb9b773f22b2cd2250\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\guptshru\.android\build-cache\f609c32ee921cacb076fe17d63c6721c759f6fc3\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\guptshru\.android\build-cache\859d4fcecfd337b956222689d388c513a4d619e9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\guptshru\.android\build-cache\bfd801e8742789e5b091ec7791e90d9d417d4c2b\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\guptshru\.android\build-cache\22bdb80f275c8f5950e248f7d539342a54a1695a\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] C:\Users\guptshru\.android\build-cache\8f4edea4e15dd23d479b2a6a74addc69fa270d1f\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-places:9.4.0] C:\Users\guptshru\.android\build-cache\e4332314990cac135e4160d0935e0307fef8ca95\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\guptshru\.android\build-cache\f3f6062518c5ac619fa429daf108a9e8671f1bff\output\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\guptshru\.android\build-cache\2a0f89805b41a39b8a532379b60276cf1dac0c84\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\guptshru\.android\build-cache\031134c4827e6cde8cc9a9538e08bf4ded8dc981\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\guptshru\.android\build-cache\af29261838b8066cdc031a99deb38f922dadf57e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\guptshru\.android\build-cache\7c1c26dad6590588b673ab6b60e64997d846557b\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\guptshru\.android\build-cache\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:10:9-35
+		INJECTED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml
+permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:19:5-70
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:19:17-67
+permission#android.permission.CALL_PHONE
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:20:5-64
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:20:17-61
+permission#android.permission.CAMERA
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:21:5-60
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:21:17-57
+permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:22:17-73
+permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:23:17-72
+permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:24:5-74
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:24:17-71
+permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:25:5-76
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:25:17-73
+permission#android.permission.SEND_SMS
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:26:5-62
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:26:17-59
+permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:27:17-62
+permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:28:5-66
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:28:17-63
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:30:5-69
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:30:22-66
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:31:5-65
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:31:22-62
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:32:5-71
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:32:22-68
+uses-feature#android.hardware.camera
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:33:5-60
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:33:19-57
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:35:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:40:5-71
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:40:22-68
+uses-permission#android.hardware.camera.autofocus
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:41:5-73
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:41:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:42:5-81
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:42:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:43:5-67
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:43:22-64
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:44:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\guptshru\.android\build-cache\878fad82ab001c7bc7f1faffdb85e85770cac8f7\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\guptshru\.android\build-cache\cf328a0774bf6935da8ff1e7f664077790d98c3f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\guptshru\.android\build-cache\e46b980f8733343936ea525fb0b3a811477cd699\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:21:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.2] C:\Users\guptshru\.android\build-cache\43516c2fd89aa1383fed1e5d73ea4c669a656763\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] C:\Users\guptshru\.android\build-cache\2c35597f9b8edb289a4eb297fcd73209dc133cbe\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.11] C:\Users\guptshru\.android\build-cache\6e79e798e6e856fe4a61f021b42e739dcec1bba1\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.9] C:\Users\guptshru\.android\build-cache\8b8f615a46fa755f479a5ae14407899e75fdc56e\output\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.13] C:\Users\guptshru\.android\build-cache\cbaa94a0062f2715e1243829fb62f97aed031d53\output\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\5135f59fed3d6af6650e5fa68b856472da7b025e\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\guptshru\.android\build-cache\2309409444e547ac1976de42a53e705188e6e887\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\guptshru\.android\build-cache\84adb1cbd96f019961439edbadf26d0b2076597a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\guptshru\.android\build-cache\859d4fcecfd337b956222689d388c513a4d619e9\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\guptshru\.android\build-cache\bfd801e8742789e5b091ec7791e90d9d417d4c2b\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\guptshru\.android\build-cache\f3f6062518c5ac619fa429daf108a9e8671f1bff\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:44:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:45:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\guptshru\.android\build-cache\3895d00247c109469cd504a49347356760b6da33\output\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\guptshru\.android\build-cache\e46b980f8733343936ea525fb0b3a811477cd699\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\5135f59fed3d6af6650e5fa68b856472da7b025e\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\guptshru\.android\build-cache\2309409444e547ac1976de42a53e705188e6e887\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\guptshru\.android\build-cache\84adb1cbd96f019961439edbadf26d0b2076597a\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\guptshru\.android\build-cache\f3f6062518c5ac619fa429daf108a9e8671f1bff\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:45:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:46:5-75
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:46:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:47:5-80
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:47:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:49:5-66
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:49:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:50:5-68
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\guptshru\.android\build-cache\e46b980f8733343936ea525fb0b3a811477cd699\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:22:5-68
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\5135f59fed3d6af6650e5fa68b856472da7b025e\output\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\guptshru\.android\build-cache\2309409444e547ac1976de42a53e705188e6e887\output\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:50:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:51:5-81
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:51:22-78
+application
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:53:5-234:19
+MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\guptshru\.android\build-cache\16daeb8183953b2d01afa379aaf1c9902fe62f66\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\guptshru\.android\build-cache\878fad82ab001c7bc7f1faffdb85e85770cac8f7\output\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\guptshru\.android\build-cache\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\output\AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\guptshru\.android\build-cache\4108be1ef49e3de149528f3af432f0050cf45765\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\guptshru\.android\build-cache\fbd6ec86fbd55434d737d60d3e65173fe5765665\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] C:\Users\guptshru\.android\build-cache\555afa5db821420fbe4b1d7c9c17336a907978b3\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] C:\Users\guptshru\.android\build-cache\b94a9e3d34af851879b0d200e6d53cdd5cd12dc8\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\guptshru\.android\build-cache\cf328a0774bf6935da8ff1e7f664077790d98c3f\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\guptshru\.android\build-cache\a28f0aaa0b618aa96f9138ae1193f17267270cb6\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\guptshru\.android\build-cache\6d1403c2624ea1917a8a051067b927d7148ae9a5\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\guptshru\.android\build-cache\d956a621d095528d137d92c789394ad19268295f\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] C:\Users\guptshru\.android\build-cache\83fed7d70d76b2968108629a5f8d0efffbb3ef94\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] C:\Users\guptshru\.android\build-cache\4d096f83970a375512058f2b6071a50fdea3e0fd\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] C:\Users\guptshru\.android\build-cache\1145e1e27c8479b8978beab112c738d84d8a250a\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\guptshru\.android\build-cache\8cdb41f0d3109849092a2d460d14c04ff623e1c9\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\guptshru\.android\build-cache\dcf201f4a49a7647856bb66f42edc0c7061848fa\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\guptshru\.android\build-cache\3895d00247c109469cd504a49347356760b6da33\output\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] C:\Users\guptshru\.android\build-cache\d00a3118f27bccb8a7db54642c3456e4b5fe6360\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\guptshru\.android\build-cache\167cf1ed11373289410c9dbd496cc28bf3469178\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] C:\Users\guptshru\.android\build-cache\125b6a9c8e627fb8a4abc18c84ce82bd788fdaa9\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\guptshru\.android\build-cache\e46b980f8733343936ea525fb0b3a811477cd699\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\guptshru\.android\build-cache\cb3657e1708c718fc42f2de145ecbd6714fcacfe\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\guptshru\.android\build-cache\eab42ddbabc9512c9a2fd8eafa2fc028f9e56120\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\guptshru\.android\build-cache\6af3facc5c02d3663ecb4339988795148f4188c2\output\AndroidManifest.xml:19:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.2] C:\Users\guptshru\.android\build-cache\43516c2fd89aa1383fed1e5d73ea4c669a656763\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] C:\Users\guptshru\.android\build-cache\2c35597f9b8edb289a4eb297fcd73209dc133cbe\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.11] C:\Users\guptshru\.android\build-cache\6e79e798e6e856fe4a61f021b42e739dcec1bba1\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.9] C:\Users\guptshru\.android\build-cache\8b8f615a46fa755f479a5ae14407899e75fdc56e\output\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.13] C:\Users\guptshru\.android\build-cache\cbaa94a0062f2715e1243829fb62f97aed031d53\output\AndroidManifest.xml:27:5-20
+MERGED from [gun0912.ted:tedpermission:1.0.2] C:\Users\guptshru\.android\build-cache\f871a84ebb0fe09fb7885a2f77a20c75876ce32d\output\AndroidManifest.xml:9:5-13:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\guptshru\.android\build-cache\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\output\AndroidManifest.xml:22:5-20
+MERGED from [com.github.sundeepk:compact-calendar-view:1.8.1] C:\Users\guptshru\.android\build-cache\c39ff34733c341d31d238a2fb9a5d41ca44be107\output\AndroidManifest.xml:11:5-47
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\guptshru\.android\build-cache\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\guptshru\.android\build-cache\dccb2e92a05599711b121ece940a480f836b6983\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\guptshru\.android\build-cache\b6b6e3ca4805b331db1fe011b0215c116300fa88\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\5135f59fed3d6af6650e5fa68b856472da7b025e\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\guptshru\.android\build-cache\2309409444e547ac1976de42a53e705188e6e887\output\AndroidManifest.xml:27:5-20
+MERGED from [com.android.support:support-v13:23.4.0] C:\Users\guptshru\.android\build-cache\0060e15819b74e7a860fce070620c2fcabd3679c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\guptshru\.android\build-cache\84adb1cbd96f019961439edbadf26d0b2076597a\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] C:\Users\guptshru\.android\build-cache\67002b4ca0ae112609e665a59e92cae5d5649c1d\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\guptshru\.android\build-cache\755722f0d2d0051c437a1dfb9b773f22b2cd2250\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\guptshru\.android\build-cache\f609c32ee921cacb076fe17d63c6721c759f6fc3\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\guptshru\.android\build-cache\859d4fcecfd337b956222689d388c513a4d619e9\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\guptshru\.android\build-cache\bfd801e8742789e5b091ec7791e90d9d417d4c2b\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\guptshru\.android\build-cache\22bdb80f275c8f5950e248f7d539342a54a1695a\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-places:9.4.0] C:\Users\guptshru\.android\build-cache\e4332314990cac135e4160d0935e0307fef8ca95\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\guptshru\.android\build-cache\f3f6062518c5ac619fa429daf108a9e8671f1bff\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\guptshru\.android\build-cache\2a0f89805b41a39b8a532379b60276cf1dac0c84\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\guptshru\.android\build-cache\031134c4827e6cde8cc9a9538e08bf4ded8dc981\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\guptshru\.android\build-cache\af29261838b8066cdc031a99deb38f922dadf57e\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\guptshru\.android\build-cache\7c1c26dad6590588b673ab6b60e64997d846557b\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:58:9-41
+	android:allowBackup
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:55:9-36
+		REJECTED from [com.github.sundeepk:compact-calendar-view:1.8.1] C:\Users\guptshru\.android\build-cache\c39ff34733c341d31d238a2fb9a5d41ca44be107\output\AndroidManifest.xml:11:18-44
+	android:icon
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:57:9-38
+	android:theme
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:59:9-40
+	tools:replace
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:56:9-44
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:54:9-51
+uses-library#com.google.android.maps
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:60:9-64
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:60:23-61
+receiver#com.hp.epilepsy.utils.AlarmReceiver
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:67:9-71:20
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:67:19-54
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:68:13-70:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:69:17-79
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:69:25-76
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:72:9-78:20
+	android:enabled
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:74:13-35
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:73:13-78
+intent-filter#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:75:13-77:29
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:76:17-94
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:76:25-91
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:80:9-83:40
+	android:enabled
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:82:13-35
+	android:exported
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:83:13-37
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:81:13-77
+receiver#com.google.android.gms.analytics.CampaignTrackingReceiver
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:90:9-96:20
+	android:exported
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:92:13-36
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:91:13-85
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:93:13-95:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:94:17-79
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:94:25-76
+service#com.google.android.gms.analytics.CampaignTrackingService
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:98:9-92
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:98:18-89
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:100:9-108:20
+	android:authorities
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:102:13-63
+	android:grantUriPermissions
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:104:13-47
+	android:exported
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:103:13-37
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:101:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:105:13-107:49
+	android:resource
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:107:17-46
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:106:17-67
+activity#com.hp.epilepsy.widget.HomeView
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:110:9-115:58
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:112:13-45
+	android:launchMode
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:113:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:115:13-55
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:111:13-44
+activity#com.hp.epilepsy.widget.VideoRecorderView
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:116:9-121:52
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:121:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:119:13-45
+	android:launchMode
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:120:13-44
+	android:configChanges
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:118:13-59
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:117:13-53
+activity#com.hp.epilepsy.widget.AppointmentReminderActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:122:9-127:52
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:127:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:125:13-45
+	android:launchMode
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:126:13-44
+	android:configChanges
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:124:13-59
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:123:13-63
+activity#com.hp.epilepsy.widget.LoginActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:129:9-133:52
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:133:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:131:13-45
+	android:launchMode
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:132:13-44
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:130:13-49
+activity#com.hp.epilepsy.widget.ForgetPasswordActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:134:9-139:52
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:139:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:136:13-45
+	android:launchMode
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:137:13-44
+	android:noHistory
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:138:13-37
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:135:13-58
+activity#com.hp.epilepsy.widget.ChangePasswordActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:140:9-144:52
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:144:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:142:13-45
+	android:launchMode
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:143:13-44
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:141:13-58
+activity#com.hp.epilepsy.widget.ConfirmationCodeActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:145:9-150:52
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:150:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:147:13-45
+	android:launchMode
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:148:13-44
+	android:noHistory
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:149:13-37
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:146:13-60
+activity#com.hp.epilepsy.widget.RegisterActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:151:9-156:52
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:156:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:153:13-45
+	android:launchMode
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:154:13-44
+	android:noHistory
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:155:13-37
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:152:13-52
+activity#com.hp.epilepsy.widget.TermsConditionsActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:157:9-160:52
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:160:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:159:13-45
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:158:13-59
+activity#com.hp.epilepsy.widget.RecordVideoActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:161:9-171:20
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:165:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:163:13-45
+	android:launchMode
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:164:13-44
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:162:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:166:13-170:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:167:17-69
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:167:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:169:17-77
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:169:27-74
+service#com.hp.epilepsy.utils.NotifyService
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:173:9-176:39
+	android:enabled
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:175:13-35
+	android:exported
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:176:13-36
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:174:13-48
+activity#com.hp.epilepsy.widget.MedicationReminderActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:178:9-181:52
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:181:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:180:13-45
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:179:13-62
+activity#com.hp.epilepsy.widget.MedicationTitrationActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:182:9-185:52
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:185:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:184:13-45
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:183:13-63
+activity#com.hp.epilepsy.widget.MedicationAlarmsActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:186:9-189:52
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:189:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:188:13-45
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:187:13-60
+activity#com.hp.epilepsy.widget.PrescriptionRenewalReminderActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:190:9-194:52
+	android:screenOrientation
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:194:13-49
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:192:13-45
+	android:noHistory
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:193:13-37
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:191:13-71
+service#com.hp.epilepsy.Services.OnClearFromRecentService
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:204:9-99
+	android:stopWithTask
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:204:68-96
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:204:18-67
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:205:9-207:71
+	android:value
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:207:13-68
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:206:13-58
+activity#com.hp.epilepsy.widget.MapsActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:209:9-211:59
+	android:label
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:211:13-56
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:210:13-48
+activity#com.hp.epilepsy.widget.CalenderEventsListActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:212:9-214:52
+	android:theme
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:214:13-50
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:213:13-62
+activity#com.hp.epilepsy.widget.ReportResultActivity
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:216:9-218:52
+	android:theme
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:218:13-50
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:217:13-56
+meta-data#io.fabric.ApiKey
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:221:9-223:72
+	android:value
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:223:13-69
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:222:13-44
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:228:9-230:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\guptshru\.android\build-cache\af29261838b8066cdc031a99deb38f922dadf57e\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:230:13-66
+	android:name
+		ADDED from C:\Users\guptshru\Desktop\Epilepsy V2 old\nw\Epilepsy V2\app\src\main\AndroidManifest.xml:229:13-58
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\guptshru\.android\build-cache\878fad82ab001c7bc7f1faffdb85e85770cac8f7\output\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\guptshru\.android\build-cache\878fad82ab001c7bc7f1faffdb85e85770cac8f7\output\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\guptshru\.android\build-cache\878fad82ab001c7bc7f1faffdb85e85770cac8f7\output\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\guptshru\.android\build-cache\878fad82ab001c7bc7f1faffdb85e85770cac8f7\output\AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\guptshru\.android\build-cache\878fad82ab001c7bc7f1faffdb85e85770cac8f7\output\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\guptshru\.android\build-cache\878fad82ab001c7bc7f1faffdb85e85770cac8f7\output\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\guptshru\.android\build-cache\878fad82ab001c7bc7f1faffdb85e85770cac8f7\output\AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\guptshru\.android\build-cache\878fad82ab001c7bc7f1faffdb85e85770cac8f7\output\AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\guptshru\.android\build-cache\878fad82ab001c7bc7f1faffdb85e85770cac8f7\output\AndroidManifest.xml:27:27-73
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\guptshru\.android\build-cache\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\output\AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\guptshru\.android\build-cache\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\output\AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\guptshru\.android\build-cache\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\output\AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\guptshru\.android\build-cache\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\output\AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\guptshru\.android\build-cache\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\output\AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\guptshru\.android\build-cache\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\output\AndroidManifest.xml:8:18-90
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\guptshru\.android\build-cache\cf328a0774bf6935da8ff1e7f664077790d98c3f\output\AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\guptshru\.android\build-cache\cf328a0774bf6935da8ff1e7f664077790d98c3f\output\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\guptshru\.android\build-cache\cf328a0774bf6935da8ff1e7f664077790d98c3f\output\AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\guptshru\.android\build-cache\cf328a0774bf6935da8ff1e7f664077790d98c3f\output\AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\guptshru\.android\build-cache\cf328a0774bf6935da8ff1e7f664077790d98c3f\output\AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\guptshru\.android\build-cache\cf328a0774bf6935da8ff1e7f664077790d98c3f\output\AndroidManifest.xml:29:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\guptshru\.android\build-cache\d956a621d095528d137d92c789394ad19268295f\output\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\guptshru\.android\build-cache\d956a621d095528d137d92c789394ad19268295f\output\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\guptshru\.android\build-cache\d956a621d095528d137d92c789394ad19268295f\output\AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\guptshru\.android\build-cache\d956a621d095528d137d92c789394ad19268295f\output\AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\guptshru\.android\build-cache\d956a621d095528d137d92c789394ad19268295f\output\AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\guptshru\.android\build-cache\d956a621d095528d137d92c789394ad19268295f\output\AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\guptshru\.android\build-cache\d956a621d095528d137d92c789394ad19268295f\output\AndroidManifest.xml:28:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\guptshru\.android\build-cache\4a42d2b46a3b7936970564829ebdbd9937065905\output\AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\guptshru\.android\build-cache\e46b980f8733343936ea525fb0b3a811477cd699\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\guptshru\.android\build-cache\e46b980f8733343936ea525fb0b3a811477cd699\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\guptshru\.android\build-cache\156a42a62987a646b22ef3d5bec8a11f680dd1a3\output\AndroidManifest.xml:37:11-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\guptshru\.android\build-cache\859d4fcecfd337b956222689d388c513a4d619e9\output\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\guptshru\.android\build-cache\bfd801e8742789e5b091ec7791e90d9d417d4c2b\output\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\guptshru\.android\build-cache\c7da9f1cbdfb34278ca10e05fa243ec9c8bca518\output\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\guptshru\.android\build-cache\cb3657e1708c718fc42f2de145ecbd6714fcacfe\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\guptshru\.android\build-cache\cb3657e1708c718fc42f2de145ecbd6714fcacfe\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\guptshru\.android\build-cache\cb3657e1708c718fc42f2de145ecbd6714fcacfe\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\guptshru\.android\build-cache\cb3657e1708c718fc42f2de145ecbd6714fcacfe\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\guptshru\.android\build-cache\cb3657e1708c718fc42f2de145ecbd6714fcacfe\output\AndroidManifest.xml:9:13-58
+activity#com.gun0912.tedpermission.TedPermissionActivity
+ADDED from [gun0912.ted:tedpermission:1.0.2] C:\Users\guptshru\.android\build-cache\f871a84ebb0fe09fb7885a2f77a20c75876ce32d\output\AndroidManifest.xml:10:9-12:56
+	android:theme
+		ADDED from [gun0912.ted:tedpermission:1.0.2] C:\Users\guptshru\.android\build-cache\f871a84ebb0fe09fb7885a2f77a20c75876ce32d\output\AndroidManifest.xml:12:13-53
+	android:name
+		ADDED from [gun0912.ted:tedpermission:1.0.2] C:\Users\guptshru\.android\build-cache\f871a84ebb0fe09fb7885a2f77a20c75876ce32d\output\AndroidManifest.xml:11:13-75
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\guptshru\.android\build-cache\84adb1cbd96f019961439edbadf26d0b2076597a\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\guptshru\.android\build-cache\84adb1cbd96f019961439edbadf26d0b2076597a\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\guptshru\.android\build-cache\84adb1cbd96f019961439edbadf26d0b2076597a\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\guptshru\.android\build-cache\84adb1cbd96f019961439edbadf26d0b2076597a\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\guptshru\.android\build-cache\84adb1cbd96f019961439edbadf26d0b2076597a\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\guptshru\.android\build-cache\84adb1cbd96f019961439edbadf26d0b2076597a\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\guptshru\.android\build-cache\84adb1cbd96f019961439edbadf26d0b2076597a\output\AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\guptshru\.android\build-cache\22bdb80f275c8f5950e248f7d539342a54a1695a\output\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\guptshru\.android\build-cache\22bdb80f275c8f5950e248f7d539342a54a1695a\output\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\guptshru\.android\build-cache\22bdb80f275c8f5950e248f7d539342a54a1695a\output\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\guptshru\.android\build-cache\22bdb80f275c8f5950e248f7d539342a54a1695a\output\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\guptshru\.android\build-cache\22bdb80f275c8f5950e248f7d539342a54a1695a\output\AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\guptshru\.android\build-cache\22bdb80f275c8f5950e248f7d539342a54a1695a\output\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\guptshru\.android\build-cache\22bdb80f275c8f5950e248f7d539342a54a1695a\output\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\guptshru\.android\build-cache\22bdb80f275c8f5950e248f7d539342a54a1695a\output\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\guptshru\.android\build-cache\22bdb80f275c8f5950e248f7d539342a54a1695a\output\AndroidManifest.xml:29:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\guptshru\.android\build-cache\f3f6062518c5ac619fa429daf108a9e8671f1bff\output\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\guptshru\.android\build-cache\f3f6062518c5ac619fa429daf108a9e8671f1bff\output\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\guptshru\.android\build-cache\f3f6062518c5ac619fa429daf108a9e8671f1bff\output\AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\guptshru\.android\build-cache\2a0f89805b41a39b8a532379b60276cf1dac0c84\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\guptshru\.android\build-cache\2a0f89805b41a39b8a532379b60276cf1dac0c84\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\guptshru\.android\build-cache\2a0f89805b41a39b8a532379b60276cf1dac0c84\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\guptshru\.android\build-cache\2a0f89805b41a39b8a532379b60276cf1dac0c84\output\AndroidManifest.xml:20:19-85

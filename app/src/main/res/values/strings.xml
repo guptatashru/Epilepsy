@@ -1,0 +1,313 @@
+<resources>
+
+    <string name="app_name">Epilepsy Ireland: Epilepsy Management App</string>
+
+    <!-- Sliding Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>My Epilepsy Diary</item>
+        <item>Record My Seizure</item>
+        <item>My Daily Medications</item>
+        <item>My Emergency Medications</item>
+        <item>My Contacts</item>
+        <item>My Appointments</item>
+        <item>My Videos</item>
+        <item>My Reports</item>
+        <item>Email My Data</item>
+        <item>Contact Us</item>
+        <item>Terms And Conditions</item>
+        <item>Logout</item>
+
+    </string-array>
+
+    <string-array name="yesno">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="questions">
+        <item>In Which city were you born \?</item>
+        <item>What is your first pet name \? </item>
+        <item>What is your mother maiden name \?</item>
+    </string-array>
+    <string-array name="unit">
+        <item>mg</item>
+        <item>mcg </item>
+        <item>ml</item>
+    </string-array>
+    <!-- Right Menu Items -->
+    <string name="create_seizure_type">Create Seizure Type</string>
+    <string name="tab_to_record_video">Press To Record a Video</string>
+    <string name="tab_to_send_sms">Emergency SMS Service</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Don\'t have an account \?</string>
+    <string name="sign_up"><![CDATA[<b><u>Sign up</u></b>]]></string>
+    <string name="forget_password"><![CDATA[<b><u>Forgot Username/Password \?</u></b>]]></string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="MedicationTitration">Medication Titration</string>
+    <string name="title_activity_seizure_details">SeizureDetailsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="record_seizure">Record Seizure</string>
+    <string name="seizure_type">Seizure Type</string>
+    <string name="seizure_duration">Seizure Duration</string>
+    <string name="duration">Duration:</string>
+    <string name="trigger">Triggers:</string>
+    <string name="seizure_trigger">Trigger</string>
+    <string name="select_triggers">Triggers</string>
+    <string name="select_features">Features</string>
+    <string name="select_seizures">Seizures</string>
+    <string name="select_pre_features">Pre Features</string>
+    <string name="select_post_features">Post Features</string>
+    <string name="video">Video</string>
+    <string name="link_video">Link Video</string>
+    <string name="seizure_description">Seizure Description</string>
+    <string name="description">Description:</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="_data_data_">/data/data/</string>
+    <string name="add_seizure_type">Add Seizure Type</string>
+    <string name="add_seizure_type_desc">This screen allows you to create a short hand description of the different types of seizures that you may have. The seizure name is added as an option when you are recording seizures on your calendar</string>
+    <string name="seizure_name">Seizure Name</string>
+    <string name="seizure_name_hint">Enter Seizure Name</string>
+    <string name="create_sms">Setup SMS</string>
+    <string name="phone_hint">Enter Phone Number</string>
+    <string name="phone">Phone Number to send SMS to</string>
+    <string name="message">Message to send</string>
+    <string name="message_hint">Enter Message to Send</string>
+    <string name="sms_confirmation_title">Confirmation</string>
+    <string name="sms_confirmation_body">Confirm that you wish to send emergency SMS</string>
+    <string name="message_title">Message:</string>
+    <string name="recipent">Recipent:</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_sms_defined">No SMS defined. Please create message in the app</string>
+    <string name="sms_sent">SMS sent successfully.</string>
+    <string name="sms_send_fail">SMS could not send. Check network settings.</string>
+    <string name="create_trigger">Create Trigger</string>
+    <string name="create_pre_feature">Create Pre Feature</string>
+
+    <string name="create_During_Feature">Create During Feature</string>
+    <string name="create_feature">Create Seizure Feature</string>
+
+    <string name="create_Emergency">Create Emergency</string>
+    <string name="create_Daily">Create Daily</string>
+    <string name="medication_Type">Create Medication Type</string>
+    <string name="seizure_Feature">Seizure Feature</string>
+    <string name="more">More...</string>
+
+    <string name="create_post_feature">Create Post Feature</string>
+    <string name="other_info">Other Information</string>
+    <string name="trigger_name">Trigger Name</string>
+    <string name="trigger_name_hint">Enter Trigger Name</string>
+    <string name="feature_name">Feature Name</string>
+    <string name="feature_name_hint">Enter Feature Name</string>
+    <string name="pre_feature_name">Pre Seizure Feature Name</string>
+    <string name="pre_feature_name_hint">Enter Pre Seizure Feature Name</string>
+    <string name="post_feature_name">Post Seizure Feature Name</string>
+    <string name="post_feature_name_hint">Enter Post Seizure Feature Name</string>
+    <string name="add_trigger">Add Trigger</string>
+    <string name="add_trigger_desc">This screen allows you to create a short hand description of triggers you may have which are not in the pre-defined list. Triggers you add here can be selected when you are recording seizures on your calendar</string>
+    <string name="add_feature">Add Feature</string>
+    <string name="add_feature_desc">This screen allows you to create a short hand description of the seizure features you experience which are not in the pre-defined list. Features you add here can be selected when you are recording seizures on your calendar</string>
+    <string name="add_pre_feature">Add Pre Seizure Feature</string>
+    <string name="add_pre_feature_desc">This screen allows you to create a short hand description of the pre-seizure features you experience which are not in the pre-defined list. Features you add here can be selected when you are recording seizures on your calendar</string>
+    <string name="add_post_feature">Add Post Seizure Feature</string>
+    <string name="add_post_feature_desc">This screen allows you to create a short hand description of the post-seizure features you experience which are not in the pre-defined list. Features you add here can be selected when you are recording seizures on your calendar</string>
+    <string name="emergency_medication_given">Emergency Med given</string>
+    <string name="ambulance_called">Ambulance called</string>
+    <string name="seizure_features">Seizure Features</string>
+    <string name="pre_features">Pre Features</string>
+    <string name="post_features">Post Features</string>
+    <string name="info">I</string>
+    <string name="medication">New Medication</string>
+    <string name="appointmentReminder">APPOINTMENT REMINDERS</string>
+    <string name="renewalDate">Renewal Date</string>
+    <string name="prescriptionrenewalreminder">Prescription Renewal</string>
+    <string name="Appointments">New Appointment</string>
+    <string name="medication_name">Medication Name</string>
+    <string name="appointment_with">Appointment with</string>
+    <string name="medication_description">Medication Description</string>
+    <string name="medication_images">Medication Images</string>
+    <string name="medication_schedule">Medication Schedule</string>
+    <string name="start_date">Start Date</string>
+    <string name="datee">Date</string>
+    <string name="dosage">Dosage</string>
+    <string name="unit">Unit</string>
+    <string name="terms_conditions">
+<![CDATA[<b>End User Licence Agreement</b><br/><br/>
+
+This End-User License Agreement (EULA) is a legal agreement between you (either an individual or a single entity) and the Provider (Epilepsy Ireland) of this Software for the software product [Epilepsy Ireland App], which includes computer software and may include associated media, printed materials, and “online" or electronic documentation (“software product”)<br/>
+
+By installing the software product, you agree to be bounded by the terms of this EULA.<br/>
+If you do not agree to the terms of this EULA, do not install or use the software product.<br/><br/>
+
+<b>Data Security</b><br/><br/>
+All the information you record using the software product will be held and stored on your own personal phone and at your own risk. Epilepsy Ireland takes no responsibility for the security of data stored on your phone.  We recommend that you take all possible steps to keep your personal information secure.<br/><br/>
+
+<b>Purpose of the software product</b><br/><br/>
+ The purpose of the software product is to assist you in managing and taking control of your epilepsy. The seizure diary is a tool to help you record relevant information on your seizures and the reminder service assists you in taking your medications on time and keeping & preparing for medical appointments.<br/>
+
+This is not a substitute for professional medical advice. You should consult your doctor, or other health professional, before making any decisions that could affect your health or the health of others.<br/><br/>
+
+<b>Functionality</b><br/><br/>
+While every effort is made in ensuring that the software product fulﬁls its purpose in assisting you manage your epilepsy, Epilepsy Ireland does not warrant that: (i) the service will meet your own personal requirements, (ii) the service will be uninterrupted or error-free, (iii) the results that may be obtained will be accurate or reliable, (iv) any errors in the software product will be corrected.<br/>
+
+To the extent permitted by law, in no event shall Epilepsy Ireland be liable for any direct or indirect or consequential/special loss or damage resulting from the use or the inability to use or any other matter relating to the functionality of the software product. Your use of the software product is at your own risk.<br/><br/>
+
+<b>Changes to the software product</b><br/><br/>
+Epilepsy Ireland reserves the right at any time, with or without notice, to update, modify or discontinue, temporarily or permanently, the software product or any part thereof. Epilepsy Ireland shall not be liable for any loss or damage arising from modiﬁcations, suspensions or discontinuance.<br/>
+
+While we will attempt to notify users of upcoming updates and modiﬁcations via our website www.epilepsy.ie, such updates or modiﬁcations may at our discretion, be pushed out to app users automatically with little or no notice.<br/>
+
+Should it be discontinued, it will continue to work on your device until software updates render it obsolete. The app may cease to function for a variety of other reasons, including, but not limited to damage to your phone. In order to maintain uninterrupted service in the case of your phone being damaged, lost or stolen, it is your responsibility to ensure that your data is backed up regularly using an appropriate, secure method.<br/><br/>
+
+<b>Use of Information</b><br/><br/>
+For users who have downloaded versions of the App up to and including v2.0 on android, the only information Epilepsy Ireland will hold on you will be the contact details you provide when downloading the app. Your contact details will not be shared with any other organisation or company. Epilepsy Ireland will not have access to any of the data you store on your phone.<br/><br/>
+
+For users who have download later versions of the App on Android (beginning with v2.0) and for all iOS users, Epilepsy Ireland does not hold any of your personal information whatsoever, including your login details or answers to your security questions. This information is stored on your handset. Should you forget your login details, you can retrieve your information by correctly answering the security questions you completed when setting up your profile.\n\n Data Ownership\n\n All the information you record using the software product will be held and stored on your own personal phone. Your proﬁle and the data you upload belong to you. Epilepsy Ireland claims no intellectual property rights over the data you store or transmit.<br/><br/>
+
+<b>Data Responsibility</b><br/><br/>
+The software product permits you to create and store information on your own phone and to transmit this information by email. The safety, security and privacy of your phone and the information that you store on it or transmit from it are your responsibility and not the responsibility of Epilepsy Ireland. The use is therefore at your own risk. Epilepsy Ireland assumes no responsibility or liability for the delay, failure, interruption, or corruption of any data stored on or transmitted to or from.<br/>
+
+You are responsible for maintaining the security of your username and password. Epilepsy Ireland shall not be liable for any loss or damage arising from your failure to comply with this security obligation. Please note that Epilepsy Ireland can not provide a password retrieval service for Android users whose original download was v2.0 or later, or for all iOS users. <br/><br/>
+
+<b>Copyright</b><br/><br/>
+
+The copyright for the software product and all the images and content contained belongs to Epilepsy Ireland or third parties and cannot be reproduced, duplicated, or sold by any other person or organisation without the express consent of Epilepsy Ireland or such third parties.<br/><br/>
+
+<b>Changes to Terms and Conditions</b><br/><br/>
+Epilepsy Ireland may update these Terms and Conditions in conjunction with the release of new versions of the software product or at any time at our discretion and without notice. Revisions to these Terms and Conditions will be posted on our website www.epilepsy.ie. Any new features added from time to time, including the release of new tools and resources, are subject to these Terms and Condition. Continued use of the software product after any such changes shall constitute your consent to such changes.<br/><br/>
+
+<b>Breach of Terms and Conditions</b><br/><br/>
+If Epilepsy Ireland determines that a user has breached these Terms and Conditions, we may at our discretion, discontinue the use of the service or deregister the user.<br/><br/>
+
+<b>Acceptance of Terms and Conditions</b><br/><br/>
+By activating the software product, you agree to the Terms & Conditions stated herein. You acknowledge that you are responsible for all use using your account, and that these Terms and Conditions apply to all usage of your account.<br/>
+
+The software product is intended for use by adults over the age of 18 years. Users who are minors are required to obtain the consent of their parents or guardians before consenting to these Terms and Conditions.<br/>
+
+<b>Governing law</b><br/>
+
+This agreement will be governed by and construed in accordance with the laws of Ireland and any dispute between us will be resolved exclusively in the courts of Ireland.<br.>
+
+If you have any questions about these Terms & Conditions please call Epilepsy Ireland at +35314557500 or send us a mail to info@epilepsy.ie<br/>
+    ]]>
+    </string>
+    <string name="contact_us"><![CDATA[<b>Contact Us</b><br/><br/>Epilepsy Ireland is committed to working for, and to meeting the needs of everyone with epilepsy in Ireland, their families and carers.<br/><br/>Epilepsy Ireland, 249 Crumlin Road, Crumlin, Dublin 12.<br/><br/>+35314557500<br/><br/>info@epilepsy.ie<br/><br/>www.epilepsy.ie<br/><br/><a href="http://www.epilepsy.ie/index.cfm/spKey/about.regions.html">Find your local office</a><br/><br/><a href="https://www.facebook.com/epilepsy.ie">Epilepsy Ireland on Facebook</a><br/><br/><a href="https://twitter.com/epilepsyireland">Epilepsy Ireland on Twitter</a><br/><br/><a href="https://www.youtube.com/user/BrainwaveEpilepsy">Epilepsy Ireland on YouTube</a><br/><br/><a href="http://support.epilepsy.ie">Online support groups</a><br/><br/><a href="http://www.epilepsy.ie/go/membership_form">Become a member</a><br/><br/>CHY number: 6170]]></string>
+    <string name="accept">Accept Terms And Conditions</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="vid_captured">Video Captured</string>
+    <string name="seizure_details_lbl">Seizure Details</string>
+    <string name="seizure_occurence_lbl">Seizure Occurrence</string>
+    <string name="confirmation_code">Confirmation Code</string>
+    <string name="new_password_confirm">Re Enter New Password</string>
+    <string name="password_confirm">Re Enter Password</string>
+    <string name="new_password">New Password</string>
+    <!-- Email Seizure Events -->
+
+    <string name="ae_title_str">Email Seizure Events</string>
+    <string name="ae_desc_str">This screen allows you to Email a report of your Seizure Events to your Doctor.</string>
+    <string name="ae_to_date_label">Date To:</string>
+    <string name="ae_from_date_label">Date From:</string>
+    <string name="record_siezure_detail_frag_tag">RECORD_SEIZURE_TAG_FRAGMENT</string>
+    <string name="video_gallery_frag_tag">VIDEO_PICKER_FRAGMENT</string>
+    <string name="Image_gallery_frag_tag">Image_PICKER_FRAGMENT</string>
+    <string name="video_gallery_main_frag_tag">VIDEO_PICKER_MAIN_FRAGMENT</string>
+    <string name="my_appointments">My Appointment</string>
+    <string name="terms_and_conditions_frag_tag">TERMS_AND_CONDITIONS_FRAGMENT</string>
+    <string name="contact_us_frag_tag">CONTACT_US_FRAGMENT</string>
+    <string name="new_medication_fragment">new_medication</string>
+    <string name="NEW_MEDICATION_FRAGMENT">NewMedication</string>
+    <string name="MY_EMERGENCY_MEDICATION">MyEmergencyMedication</string>
+    <string name="NEW_CONTACT">NewContact</string>
+    <string name="MY_REPORTS">MyReports</string>
+    <string name="EMERGENCY_MEDICATIONS_LIST">EmergencyMedicationsList</string>
+    <string name="CONTACTS_LIST">ContactsList</string>
+    <string name="NEW_APPOINTMENT_FRAGMENT">NewAPPOINTMENT</string>
+    <string name="Dairy_fragment">My Epilepsy Medications</string>
+    <string name="calendar_frag_tag">CALENDAR_FRAGMENT</string>
+    <string name="seizure_list_frag_tag">SEIZURE_LIST_FRAGMENT</string>
+    <string name="seizure_detail_frag_tag">SEIZURE_DETAIL_FRAGMENT</string>
+    <string name="create_seizure_type_frag_tag">CREATE_SEIZURE_TYPE_TAG_FRAGMENT</string>
+    <string name="create_trigger_frag_tag">CREATE_TRIGGER_FRAGMENT</string>
+    <string name="create_pre_feature_main_frag_tag">CREATE_PRE_FEATURE_FRAGMENT</string>
+    <string name="create_feature_frag_tag">CREATE_FEATURE_FRAGMENT</string>
+    <string name="create_post_feature_tag">CREATE_POST_FEATURE_FRAGMENT</string>
+    <string name="create_sms_frag_tag">CREATE_SMS_FRAGMENT</string>
+    <string name="email_csv_frag_tag">EMAIL_CSV_FRAGMENT</string>
+    <string name="menu_email_csv">Email Events</string>
+    <string name="no_user_associated">There is no user account associated with this app.  Please create an account in order to save a video.</string>
+    <string name="invalid_password">Password must be at least 8 characters long and contain at least one Upper Case letter and number and not contain special characters.</string>
+    <string name="no_internet_connection">No Internet Connection , please check your connectivity</string>
+    <string name="username_email_validation_error">Error Validating userName or Email or you may registered on another device</string>
+    <string name="code_not_match">InPut value doesn\'t match confirmation code sent to your mail</string>
+    <string name="password_not_match">Passwords entered are not matched</string>
+    <string name="invalid_username">userName can\'t be empty or contains spaces or contain special characters.</string>
+    <string name="answer">Answer</string>
+    <string name="confirm_answer">Confirm Answer</string>
+    <string name="invalid_answer">Answer Must be at least one character and match the confirmed answer and not contain special characters.</string>
+    <string name="wrong_answer">Wrong Answer</string>
+    <string name="invalid_email">Email Field can\'t be empty or contain special characters.</string>
+    <string name="question_hint">Select a question from the below</string>
+    <string name="invalid_username_password">Invalid UserName or Password</string>
+    <string name="error_connect">Error while trying to Connect to Server</string>
+    <string name="password_success_change">Password Changed Successfully</string>
+    <string name="password_change_error">Error Changing Password</string>
+    <string name="operation_done">Operation Done Successfully</string>
+    <string name="operation_fail">Operation Failed</string>
+    <string name="fill_dates">Please fill in both dates</string>
+    <string name="file_written">File Written</string>
+    <string name="file_error">Something went wrong</string>
+    <string name="select_seizure_type">Please select a seizure type</string>
+    <string name="fill_missing_fields">Please Fill in Missing Fields</string>
+    <string name="user_created">User Created Successfully</string>
+    <string name="user_exist">This username is already in use.  Please choose another.</string>
+    <string name="user_creation_error">Error Creating User</string>
+    <string name="delete_event_error">Something went wrong while deleting event</string>
+    <string name="event_deleted">Event Deleted</string>
+    <string name="generic_failure">Generic failure</string>
+    <string name="no_service">No service</string>
+    <string name="null_pdu">Null PDU</string>
+    <string name="radio_off">Radio off</string>
+    <string name="sms_delivered">SMS Delivered</string>
+    <string name="sms_not_delivered">SMS not delivered</string>
+    <string name="title_activity_medication">Medication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_appointment_reminder">AppointmentReminderActivity</string>
+    <string name="title_activity_appointment">Appointment</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyCc_KeARJBq6uu251LSfrcL-ZCCR07DQHE
+    </string>
+
+
+    <array name="colorNameList">
+        <item>@color/medication1</item>
+        <item>@color/medication3</item>
+        <item>@color/medication5</item>
+    </array>
+
+    <string name="new_message_notification_title_template">New message: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="new_message_notification_placeholder_text_template">You said %1$s and lorem ipsum
+        dolor sit amet, consectetur adipiscing elit. Etiam non enim magna. Morbi dictum, velit vel
+        semper venenatis, magna odio volutpat velit, at ullamcorper nulla lacus sed turpis.
+        Pellentesque vitae metus elit, nec tincidunt tellus. Integer sed nisl sem, ullamcorper
+        ornare lacus. Duis ac mauris sed massa congue volutpat. Donec sed erat sit amet turpis
+        viverra rhoncus sit amet nec magna. Donec lacinia ligula at libero volutpat volutpat nec nec
+        tortor.
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+</resources>

@@ -1,0 +1,570 @@
+[
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sms_confirmation_dialog.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\sms_confirmation_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calender_event_list_item.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\calender_event_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_post_feature.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_create_post_feature.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\marker.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\marker.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_emergency_medications2.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\fragment_my_emergency_medications2.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\e4332314990cac135e4160d0935e0307fef8ca95\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_info_item.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\spinner_info_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\right_hand_sub_menu_list_item.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\right_hand_sub_menu_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contacts_list.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\fragment_contacts_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emergency_medications_list.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\fragment_emergency_medications_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_sms.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_create_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\e4332314990cac135e4160d0935e0307fef8ca95\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_new_medication.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\fragment_new_medication.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_range_chart.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\custom_range_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_seizure_details.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_seizure_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_reports.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\fragment_my_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_design.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\spinner_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_new_contact.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\fragment_new_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_gallery_row_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\image_gallery_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_row_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\contact_list_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_email_events.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_email_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calender_event_list_sub_item.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\calender_event_list_sub_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\multi_spinner_item.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\multi_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\right_hand_list_group.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\right_hand_list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calender_event_list_group.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\calender_event_list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_trigger.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_create_trigger.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_x1.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_x1.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_prescriptionrenewal_reminder.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_prescriptionrenewal_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_of_appointments.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\fragment_list_of_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_seizure_list.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_seizure_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_medication_reminder.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_medication_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_confirmation_code.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_confirmation_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridcell_design.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\gridcell_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_seizure_type.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_create_seizure_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\terms_conditions.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\terms_conditions.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calendar_events.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_calendar_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\e4332314990cac135e4160d0935e0307fef8ca95\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calendar.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\question_spinner_item.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\question_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\report_item_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\report_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_window.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\popup_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\x1.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\x1.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_medication_dairy.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\fragment_medication_dairy.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_item.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\list_row_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_report_row.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\custom_report_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calender_events_list.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_calender_events_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appointment.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\e4332314990cac135e4160d0935e0307fef8ca95\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appointment_row_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\appointment_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\report_mail_dialog.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\report_mail_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_gallery_row_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\video_gallery_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_feature.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_create_feature.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calender_events_list_fragment.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_calender_events_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_recorder_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\video_recorder_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calendar.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_item_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\drawer_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_seizure_details.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_record_seizure_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calendarv.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_calendarv.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_medication_titration.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_medication_titration.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_seizure_details_list.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_seizure_details_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appointment_reminder.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_appointment_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_gallery_view_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\video_gallery_view_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\marker_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\marker_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_gallery_view_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\image_gallery_view_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_pre_feature.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_create_pre_feature.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\medication_dairy_row_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\medication_dairy_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_appointments.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\fragment_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_medication_alarms.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_medication_alarms.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_medication.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_medication.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_simple_spinner_item.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\my_simple_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\report_result_activity.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\report_result_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_video.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_record_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_date_picker.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\custom_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_player_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\video_player_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\medication_list_row_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\medication_list_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_view_layout.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\home_view_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calender_event_list_item2.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\calender_event_list_item2.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_emergency_medications.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\fragment_my_emergency_medications.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_password.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\layout\\design_layout_tab_icon.xml"
+    }
+]

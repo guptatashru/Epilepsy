@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dip">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/lightgray">
+        <TextView
+            android:id="@+id/date_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wed 6 Apr 2016"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/reasons_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:layout_marginLeft="0dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="5dp"
+            android:layout_height="match_parent"
+            android:background="@color/red"
+            android:orientation="vertical"></LinearLayout>
+        <TextView
+            android:id="@+id/siezure_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Siezures"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"/>
+    </LinearLayout>
+
+    <ImageView
+    android:layout_width="match_parent"
+    android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="20dp"
+    android:layout_gravity="center_vertical"
+    android:background="@color/lightgray"/>
+
+    <LinearLayout
+        android:id="@+id/siezure_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone"></LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:layout_marginLeft="0dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="5dp"
+            android:layout_height="match_parent"
+            android:background="@color/orange_switch"
+            android:orientation="vertical"></LinearLayout>
+        <TextView
+            android:id="@+id/missedMedication_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Missed Medications"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="center_vertical"
+        android:background="@color/lightgray"/>
+    <LinearLayout
+        android:id="@+id/missed_medications_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone"></LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:layout_marginLeft="0dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="5dp"
+            android:layout_height="match_parent"
+            android:background="@color/green"
+            android:orientation="vertical"></LinearLayout>
+        <TextView
+            android:id="@+id/medicationTitration_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Medication Titrations"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="center_vertical"
+        android:background="@color/lightgray"/>
+    <LinearLayout
+        android:id="@+id/medication_titerations_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone"></LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:layout_marginLeft="0dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="5dp"
+            android:layout_height="match_parent"
+            android:background="@color/purple"
+            android:orientation="vertical"></LinearLayout>
+        <TextView
+            android:id="@+id/prescription_renewels_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prescreption Renewels"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="center_vertical"
+        android:background="@color/lightgray"/>
+    <LinearLayout
+        android:id="@+id/prescription_renewels_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone"></LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:layout_marginLeft="0dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="5dp"
+            android:layout_height="match_parent"
+            android:background="@color/blue"
+            android:orientation="vertical"></LinearLayout>
+        <TextView
+            android:id="@+id/emergency_medications_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Emergency Medications"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="center_vertical"
+        android:background="@color/lightgray"/>
+    <LinearLayout
+        android:id="@+id/emergency_medications_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone"></LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:layout_marginLeft="0dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="5dp"
+            android:layout_height="match_parent"
+            android:background="@color/green"
+            android:orientation="vertical"></LinearLayout>
+        <TextView
+            android:id="@+id/appointment_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Appointments"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="center_vertical"
+        android:background="@color/lightgray"/>
+    <LinearLayout
+        android:id="@+id/appointments_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone"></LinearLayout>
+
+
+</LinearLayout>

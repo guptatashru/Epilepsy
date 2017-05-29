@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout1"
+    android:background="@color/white"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/title"
+            android:paddingTop="20dp"
+            android:paddingLeft="12dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Key Contacts "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/blue"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/add_Contact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/plus"
+            android:gravity="right|center_vertical"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/blue" />
+    </RelativeLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="10dp"
+    android:paddingLeft="12dp"
+
+    android:paddingRight="12dp"
+    android:layout_marginTop="52dp">
+    <View
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/blue" />
+</LinearLayout>
+
+      <ListView
+        android:id="@+id/contacts_Listview"
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:dividerHeight="1dp"
+        android:padding="5dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+       android:divider="@color/white"
+        android:layout_marginTop="53dp">
+       </ListView>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:visibility="gone"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Press + to create a new contact."
+        android:id="@+id/Message"
+        android:gravity="center"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    tools:ignore="InefficientWeight,ContentDescription">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/ars_buttonbar"
+        android:scrollbarStyle="outsideOverlay"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:orientation="vertical"
+                android:padding="10dp" >
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:text="New Medication"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/blue"
+                    android:textStyle="bold" />
+
+                <View
+                    android:id="@+id/line"
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@color/blue" />
+            </LinearLayout>
+            <!-- First Block -->
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <!-- Top Sub block -->
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:baselineAligned="true"
+                    android:orientation="horizontal">
+
+                    <!-- Top Left -->
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/title_seizure_type"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/medication_name"
+                            android:textColor="@color/blue" />
+
+                        <EditText
+                            android:id="@+id/medication_name_txt"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:hint="Name"
+                            android:textColor="@color/black" />
+                    </LinearLayout>
+                    <!-- Top Right -->
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/title_seizure_duration"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/dosage"
+                            android:textColor="@color/blue" />
+
+                        <EditText
+                            android:id="@+id/dosage_txt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Dose"
+                            android:inputType="number"
+                            android:spinnerMode="dialog"
+                            android:textColor="@color/black" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/unit"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/unit"
+                            android:textColor="@color/blue" />
+
+                        <Spinner
+                            android:id="@+id/unit_spinner"
+                            android:layout_width="fill_parent"
+                            android:layout_height="match_parent"
+                            android:textColor="@color/black" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <!-- Bottom Sub block -->
+
+
+                <!--medication description -->
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/medication_dec_txt"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/medication_description"
+                        android:textColor="@color/blue" />
+
+                    <EditText
+                        android:id="@+id/medication_description"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Medication Description"
+                        android:spinnerMode="dialog"
+                        android:textColor="@color/black" />
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <!-- Bottom Sub Left -->
+
+                    <!--                    <LinearLayout
+                                            android:layout_width="fill_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="1"
+                                            android:orientation="vertical" >
+                    &lt;!&ndash;
+                                            <TextView
+                                                android:id="@+id/stock"
+                                                android:layout_width="match_parent"
+                                                android:layout_height="wrap_content"
+                                                android:textColor="@color/blue"
+                                                android:text="Medication Stock" />
+
+                                            <EditText
+                                                android:id="@+id/medication_stock_spinner"
+                                                android:layout_width="match_parent"
+                                                android:layout_height="wrap_content"
+                                                android:textColor="@color/white"
+                                                android:spinnerMode="dialog" />&ndash;&gt;
+                                        </LinearLayout>-->
+                    <!-- Bottom Sub Right -->
+
+
+                    <TextView
+                        android:id="@+id/video"
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:drawableBottom="@drawable/cameraa"
+                        android:gravity="left"
+                        android:text="Medication images"
+                        android:textColor="@color/blue" />
+
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginRight="-70dp"
+                        android:layout_weight="1"
+                        android:orientation="horizontal">
+                        <!-- <ImageView
+                             android:id="@+id/selected_images"
+                             android:layout_width="match_parent"
+                             android:layout_height="match_parent">
+                         </ImageView>-->
+
+                        <!--                        <GridView
+                                                    android:id="@+id/GridView01"
+                                                    android:scrollbars="horizontal"
+                                                    android:layout_width="wrap_content"
+                                                    android:layout_height="wrap_content"
+                                                    android:columnWidth="90dp"
+                                                    android:verticalSpacing="10dp"
+                                                    android:horizontalSpacing="10dp"
+                                                    android:stretchMode="columnWidth"
+                                                    android:gravity="center">
+                                                </GridView>-->
+                        <ImageSwitcher
+                            android:id="@+id/mSwitcher"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_marginLeft="70dp"></ImageSwitcher>
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="70dp"
+                        android:layout_weight="1"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:id="@+id/Switch"
+                            android:visibility="gone"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/right_arrow" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <!-- Second Block -->
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="#E4E4E4" />
+
+            <!--
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:background="#F8F8F8"
+                            android:orientation="vertical"
+                            android:padding="15dp" >
+
+                            &lt;!&ndash; First Sub Block &ndash;&gt;
+
+
+
+
+                        </LinearLayout>-->
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:background="#F8F8F8"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <!-- First Sub Block -->
+                <TextView
+                    android:id="@+id/Medication_schedule"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_weight="1"
+                    android:text="@string/medication_schedule"
+                    android:textColor="@color/blue" />
+
+                <TextView
+                    android:id="@+id/startdate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_weight="1"
+                    android:text="@string/start_date" />
+
+                <EditText
+                    android:id="@+id/start_data"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:focusable="false"
+                    android:inputType="date" />
+
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="10dp"
+                android:background="#E4E4E4" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#F8F8F8"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/btnReminder"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="#f8f8f8"
+                    android:gravity="left|center_vertical"
+                    android:paddingLeft="10dip"
+                    android:text="Medication Reminder"
+                    android:textColor="@color/blue" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="10dp"
+                android:background="#E4E4E4" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#F8F8F8"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/btnTitration"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="#f8f8f8"
+                    android:gravity="left|center_vertical"
+                    android:paddingLeft="10dip"
+                    android:text="Titration"
+                    android:textColor="@color/blue" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="-13dp"
+                    android:paddingLeft="10dip"
+                    android:text="Use this feature if your dosage is being increased or decreased over a period of weeks"
+                    android:textColor="@color/gray" />
+            </LinearLayout>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="10dp"
+                android:background="#E4E4E4" />
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#F8F8F8"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/btnPrescrition"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="#f8f8f8"
+                    android:gravity="left|center_vertical"
+                    android:paddingLeft="10dip"
+                    android:text="Prescription Renewal"
+                    android:textColor="@color/blue" />
+
+            </LinearLayout>
+
+
+
+            <!-- Third Block -->
+
+
+            <!-- Fourth Block -->
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="#E4E4E4" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="10dp"
+                android:background="#E4E4E4" />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/ars_buttonbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/rec_seiz_delete"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@color/red"
+            android:clickable="true"
+            android:gravity="center"
+            android:padding="15dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@null"
+                android:clickable="false"
+                android:focusable="false"
+                android:gravity="center"
+                android:scaleType="center"
+                android:src="@drawable/delete" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/rec_seiz_save"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@color/green"
+            android:clickable="true"
+            android:gravity="center"
+            android:padding="15dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@null"
+                android:clickable="false"
+                android:focusable="false"
+                android:gravity="center"
+                android:scaleType="center"
+                android:src="@drawable/save" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

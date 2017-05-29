@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\off.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\off.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button_blue.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\rounded_button_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\2a0f89805b41a39b8a532379b60276cf1dac0c84\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_off.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\toggle_off.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_nav2.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\ic_nav2.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\save.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button_white.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\rounded_button_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\2a0f89805b41a39b8a532379b60276cf1dac0c84\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button_transparent.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\rounded_button_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\information.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\information.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\solid_blue.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\solid_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\2a0f89805b41a39b8a532379b60276cf1dac0c84\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\2a0f89805b41a39b8a532379b60276cf1dac0c84\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\a97259b7e41c4e2dc9c9b1261d3fe7b5b292d586\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\2a0f89805b41a39b8a532379b60276cf1dac0c84\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\infoo.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\infoo.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_email.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\4108be1ef49e3de149528f3af432f0050cf45765\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\on.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\on.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_on.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\toggle_on.png"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\solid_blue_red_outline.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\solid_blue_red_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\2a0f89805b41a39b8a532379b60276cf1dac0c84\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\2a0f89805b41a39b8a532379b60276cf1dac0c84\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_item_selector.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\drawer_menu_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_selector.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\drawer_menu_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button_off_white.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\rounded_button_off_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_blue_outline.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\white_blue_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_selector.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\toggle_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\fbd6ec86fbd55434d737d60d3e65173fe5765665\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\2a0f89805b41a39b8a532379b60276cf1dac0c84\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_divider.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\line_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\5d3e75bf5fce363f4e8d9a6c4a7f716f5845bab5\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\guptshru\\.android\\build-cache\\27b88a586cca5830f6f33ca1ff2b3b3a25fdb2b5\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\extendable_list_arroe_selector.xml",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\extendable_list_arroe_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
+        "source": "C:\\Users\\guptshru\\Desktop\\Epilepsy V2 old\\nw\\Epilepsy V2\\app\\src\\main\\res\\drawable\\marker2.png"
+    }
+]
